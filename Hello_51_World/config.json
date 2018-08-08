@@ -1,0 +1,11 @@
+{
+    "token": "b54458043712c89134eeef40d44a2bc9",
+    "c1": "http://localhost:8082/c1/apply.htm",
+    "c2": "http://localhost:8082/c2/apply.htm",
+    "c3": "http://localhost:8082/c3/apply.htm",
+    "c4": "http://localhost:8082/c4/apply.htm",
+    "c5": "http://localhost:8082/c5/apply.htm",
+    "rate": "20",
+    "serverOpenTime":"600",
+    "startDateTime":"2018-01-24 14:48:00"
+}
